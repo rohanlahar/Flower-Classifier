@@ -187,4 +187,4 @@ No feature dominates, so rescaling doesn't reorder anyone's nearest neighbors �
 
 ---
 
-Made with ❤️ by [Dhanish Ladwani](https://github.com/dhanish0711)
+Made with ❤️ by Rohan Laharwani
